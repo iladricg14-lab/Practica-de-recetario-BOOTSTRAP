@@ -14,6 +14,10 @@ organizadas en tarjetas interactivas con carrusel de imágenes.
 - Andrea
 - Asenet
 - Jonas
+- Adri
+- Monse
+- Enrique
+- Adry
 ##  Estructura del proyecto
 proyecto/
 ├── index.html
